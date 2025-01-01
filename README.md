@@ -10,18 +10,18 @@ A demo can be watched at [xCS50 Hompage](https://cs50.harvard.edu/x/2024/psets/6
 1. Clone the repository:
 ```sh
 # Using SSh 
-ssh git@github.com:krigjo25/console-Hello-py.git
+ssh git@github.com:krigjo25/Console-Hello-py.git
 
 # Using git bash
-git clone https://github.com/krigjo25/console-Hello-py.git
+git clone https://github.com/krigjo25/Console-Hello-py.git
 
 # Using Github Cli
-gh repo clone console-Hello-py
+gh repo clone Console-Hello-py
 ```
 
 2. Navigate to the project directory
 ```sh
-cd console-Hello-py
+cd Console-Hello-py
 ```
 
 3. Install the requirements
