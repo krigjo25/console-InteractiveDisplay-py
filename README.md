@@ -1,10 +1,10 @@
 # Hello
+An application that prints a prompted string.
 
-An application that prints a prompted string
 The application was implemented as a xCS50 assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.
 
-A demo can be watched at [xCS50 Hompage](https://cs50.harvard.edu/x/2024/psets/6/hello/)
+A demo can be watched at [xCS50 Hompage : Problem Set 6](https://cs50.harvard.edu/x/2024/psets/6/hello/)
 
 ## Installation
 1. Clone the repository:
