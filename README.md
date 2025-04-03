@@ -6,34 +6,6 @@ Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/
 
 A demo can be watched at [xCS50 Hompage : Problem Set 6](https://cs50.harvard.edu/x/2024/psets/6/hello/)
 
-## Installation
-1. Clone the repository:
-```sh
-# Using SSh 
-ssh git@github.com:krigjo25/Console-Hello-py.git
-
-# Using git bash
-git clone https://github.com/krigjo25/Console-Hello-py.git
-
-# Using Github Cli
-gh repo clone Console-Hello-py
-```
-
-2. Navigate to the project directory
-```sh
-cd Console-Hello-py
-```
-
-3. Install the requirements
-```sh
-pip install -r requirements.txt
-```
-
-4. Run the file
-```sh
-python app.py
-```
-
 ##  Usage
 To use the application, run the following command in your terminal
 
